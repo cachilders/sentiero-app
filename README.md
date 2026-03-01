@@ -2,7 +2,7 @@
 
 Explore your world with HealthKit workout data.
 
-Overworld visualizes your outdoor workout GPS data as an exploration map. Unexplored areas are fully occluded by rolling fog. As you complete workouts (like walk, run, cycle, and hike) the fog lifts to reveal the topographic terrain beneath.
+Overworld visualizes your outdoor workout GPS data as an exploration map. Unexplored areas are fully occluded by rolling fog. As you complete workouts on your watch or phone (or sync them to HealthKit form external sources) the fog lifts to reveal the topographic terrain beneath.
 
 - **Privacy-first** — all data stays on your device. No accounts, no analytics, no tracking.
 - **HealthKit integration** — reads walking, running, cycling, and hiking routes from Apple Health.
